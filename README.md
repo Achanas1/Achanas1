@@ -9,9 +9,10 @@
 
 ###
 
-<img align="right" height="100%" src="https://i.gifer.com/VwuK.gif"  />
+<img align="right" height="150" src="https://github.com/Achanas1/Achanas1/assets/131549112/e3401dd6-7058-45ed-b346-9a64a322db93"  />
 
 ###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
